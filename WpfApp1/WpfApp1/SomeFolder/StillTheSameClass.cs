@@ -10,7 +10,7 @@ namespace WpfApp1
     {
         public int GetInt()
         {
-            return 1;
+            return 1; //thisWillgetanconflict
         }
     }
 }
