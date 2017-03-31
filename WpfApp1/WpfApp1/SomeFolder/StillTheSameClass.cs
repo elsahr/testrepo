@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WpfApp1
 {
-    public class SomeClass
+    public class StillTheSameClass
     {
         public int GetInt()
         {
